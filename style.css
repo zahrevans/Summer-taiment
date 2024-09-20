@@ -2,7 +2,13 @@
 h1 {
     text-align: center;
 }
+h2{
+    text-decoration: underline;
+}
 .footer {
 bottom: 0;
 z-index: -1;
+}
+.row{
+    align-items: center;
 }
